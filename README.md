@@ -1,2 +1,2 @@
-# compeititive-programmming
+# competitive-programming
 problems from practices
